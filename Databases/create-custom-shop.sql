@@ -5,7 +5,7 @@ INSERT INTO `monster` (`server`, `guid`, `id`, `world`, `x1`, `y1`, `x2`, `y2`, 
 --
 -- Create template with the same npc_function
 --
-INSERT INTO `shop_template` (`guid`, `name`, `max_pk_level`, `pk_text`, `flags`, `type`, `max_buy_count`, `max_buy_type`) VALUES (124, 'shop_test_quest', 10, '', 0, 0, 0, 0),
+INSERT INTO `shop_template` (`guid`, `name`, `max_pk_level`, `pk_text`, `flags`, `type`, `max_buy_count`, `max_buy_type`) VALUES (124, 'shop_test_quest', 10, '', 0, 0, 0, 0);
 --
 -- Add items to the SHOP
 --
